@@ -1,6 +1,8 @@
 ## Hi, I’m @ImpSteve
 <!---- 🌱 I’m currently learning javascript & c++ --->
-- 📫 How to reach me: via discord @impsteve or twitter dm @Jakub_ImpSteve
+📫 How to reach me: 
+- discord - @impsteve 
+- twitter/x - @Jakub_ImpSteve
 <!--- - 👀 I’m interested in ...--->
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!---
