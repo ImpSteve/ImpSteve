@@ -1,8 +1,12 @@
-## Hi, I’m @ImpSteve
+# Hi, I’m @ImpSteve
 <!---- 🌱 I’m currently learning javascript & c++ --->
-📫 How to reach me: 
+## 📫 How to reach me: 
 - discord - @impsteve 
 - twitter/x - @Jakub_ImpSteve
+## 🛠️ What am I working on:
+- ImpPack - a Minecraft resource pack
+- Yenaabi - a Cosmic Reach data mod and Minecraft resource pack
+- Cosmic Reach Polish localization 
 <!--- - 👀 I’m interested in ...--->
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!---
